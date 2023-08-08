@@ -1,0 +1,270 @@
+Please select:
+0. Owner
+1. Buyer
+0
+Enter your password: owner123
+Do you want to store products?(y/n)
+y
+State brand name: pran
+State product name: chips
+State the standard price of this product: 10
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+y
+State product name: drinks
+State the standard price of this product: 20
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+y
+State product name: bread
+State the standard price of this product: 15
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+n
+Do you want to store more products?(y/n)
+y
+State brand name: olympic
+State product name: chips
+State the standard price of this product: 15
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+y
+State product name: biscuits
+State the standard price of this product: 30
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+n
+Do you want to store more products?(y/n)
+y
+State brand name: bombay
+State product name: chanachur
+State the standard price of this product: 15
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+y
+State product name: muri
+State the standard price of this product: 50
+State quantity: 50
+Do you want to add more products of this brand?(y/n)
+n
+Do you want to store more products?(y/n)
+n
+Do you want to delete products?(y/n)
+n
+Please select again:
+0. Owner
+1. Buyer
+1
+                                                                                   ___Products available for purchase___
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BRAND NAME:    pran
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chips                         50                            10
+drinks                        50                            20
+bread                         50                            15
+
+BRAND NAME:    olympic
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chips                         50                            15
+biscuits                      50                            30
+
+BRAND NAME:    bombay
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chanachur                     50                            15
+muri                          50                            50
+
+
+State the brand of product that you want to buy:
+bombay
+State the product name:
+chanachur
+State the quantity:
+20
+Do you want to buy more products from this brand?(y/n)
+n
+Do you want to buy more?(y/n)
+y
+State the brand of product that you want to buy:
+pran
+State the product name:
+chips
+State the quantity:
+5
+Do you want to buy more products from this brand?(y/n)
+y
+State the product name:
+chips
+State the quantity:
+10
+Do you want to buy more products from this brand?(y/n)
+n
+Do you want to buy more?(y/n)
+n
+
+Please enter your information below:
+Name:
+Turzo
+Location(small letters only): mymensingh
+
+Select payment method:
+1.Bikash
+2.Nagad
+3.Cash On Delivery
+4.Exit
+1
+Enter you Bikash mobile number:
+01978243409
+Enter the password:
+12345
+
+
+
+Your Bill
+-------------------
+CUSTOMER NAME: Turzo
+BILLING ADDRESS: Mymensingh
+
+BRAND                         PRODUCT                       QUANTITY                                               PRICE
+
+=====                         =======                       ========                                               =====
+
+bombay                        chanachur                     20                                                        60
+
+pran                          chips                         15                                                        50
+
+------------------------------------------------------------------------------------------------------------------------
+
+TOTAL COST:                                                                                                          110
+
+DELIVERY CHARGE:                                                                                                     100
+
+
+FINAL COST:                                                                                                          210
+
+Payment method: Bikash
+Order No: 1
+
+
+Customer 1 is leaving...
+
+Please select:
+0. Owner
+1. Buyer
+0
+Enter your password: owner123
+Do you want to store products?(y/n)
+n
+Do you want to delete products?(y/n)
+y
+Which brand of product do you want to delete?
+olympic
+State product name:
+biscuits
+State quantity:
+17
+Do you want to delete more products from the same brand?(y/n)
+n
+Enter your password: owner123
+Do you want to store products?(y/n)
+n
+Do you want to delete more products?(y/n)
+n
+Please select again:
+0. Owner
+1. Buyer
+1
+                                                                                   ___Products available for purchase___
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BRAND NAME:    pran
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chips                         35                            10
+drinks                        50                            20
+bread                         50                            15
+
+BRAND NAME:    olympic
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chips                         50                            15
+biscuits                      33                            30
+
+BRAND NAME:    bombay
+-----------
+
+PRODUCT NAME                  QUANTITY                      PRICE
+=============                 ========                      ======
+chanachur                     30                            15
+muri                          50                            50
+
+
+State the brand of product that you want to buy:
+olympic
+State the product name:
+biscuits
+State the quantity:
+6
+Do you want to buy more products from this brand?(y/n)
+n
+Do you want to buy more?(y/n)
+n
+
+Please enter your information below:
+Name:
+Zunaied
+Location(small letters only): khulna
+
+Select payment method:
+1.Bikash
+2.Nagad
+3.Cash On Delivery
+4.Exit
+4
+
+
+
+Your Bill
+-------------------
+CUSTOMER NAME: Zunaied
+BILLING ADDRESS: Khulna
+
+BRAND                         PRODUCT                       QUANTITY                                               PRICE
+
+=====                         =======                       ========                                               =====
+
+olympic                       biscuits                      6                                                         18
+
+------------------------------------------------------------------------------------------------------------------------
+
+TOTAL COST:                                                                                                           18
+
+DELIVERY CHARGE:                                                                                                      60
+
+
+FINAL COST:                                                                                                           78
+
+Payment method: Due
+Order No: 2
+
+
+Customer 2 is leaving...
+
+Please select:
+0. Owner
+1. Buyer
